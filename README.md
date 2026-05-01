@@ -28,6 +28,6 @@ The dataset used is **fifa_players.csv**, which includes:
 2. Open the `.R` files in RStudio
 3. Make sure the dataset (`fifa_players.csv`) is in the same folder
 4. Install required packages if needed:
-   --r
+   ```r
    install.packages("ggplot2")
    install.packages("class")
